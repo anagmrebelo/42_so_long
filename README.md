@@ -1,7 +1,7 @@
 # so_long
 
 ## Project description:
-Code small 2D game using minilibx library and get famliliar with the concepts of textures, sprites and tiles
+Coded small 2D game using minilibx library and get famliliar with the concepts of textures, sprites and tiles
 
 ## Grade
 125%
